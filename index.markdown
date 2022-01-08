@@ -19,9 +19,9 @@ Re-arrange the blocks below so they print out "Hello World!"
 </p>
 <script type="text/javascript">
 (function() {
-  var initial = "print(\"Hello\")\n" +
+  var initial = "print(\"HELLO\")\n" +
     "print(\" \")\n" +
-    "print(\"World\")\n" +
+    "print(\"WORLD\")\n" +
     "print(\"!\")";
   var parsonsPuzzle = new ParsonsWidget({
     "sortableId": "p1-sortable",
